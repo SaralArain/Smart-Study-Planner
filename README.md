@@ -3,6 +3,9 @@ Smart Study Planner — Fixed RAG + Pro UI
 
 This version fixes the common Streamlit Cloud import problem caused by heavy RAG dependencies being imported before the app can start.
 
+## 📄 Project Documentation
+
+[View Smart Study Planner PRD]([https://docs.google.com/document/d/XXXXXXXX/edit](https://docs.google.com/document/d/15Bpg3FdTxYB0cbo7MsyPk8JbttIoLgTdT2y-NyE56Vk/edit?usp=drivesdk))
 
 Features
 
